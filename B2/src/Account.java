@@ -1,9 +1,11 @@
-import java.time.LocalDate;
+import java.util.Date;
 
 public class Account {
       int accountId;
       String email;
       String userName;
       String fullName;
-      LocalDate createDate;
-      float salary;}
+      Department department;
+      Position position;
+      Date createDate;
+}

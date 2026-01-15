@@ -1,4 +1,4 @@
-package Wildcard;
+package src.Wildcard;
 
 public class Q1 {
     //    Question 1:

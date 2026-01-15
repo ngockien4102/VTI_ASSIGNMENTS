@@ -4,59 +4,161 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d38c3b09-dd7c-4904-9a8b-050ea2c32f5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/B3/B3/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B3/B4/src/Ex1_constructor/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B3/B4/src/Ex1_constructor/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B3/B4/src/Ex1_constructor/Group.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B1/B1.iml" beforeDir="false" />
+    <list default="true" id="1d0f101d-c357-4a78-b580-81134e544ddf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/B9/src/Generic/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B9/src/Generic/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B9/src/Generic/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B9/src/Generic/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B9/src/Wildcard/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B9/src/Wildcard/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VTI_ASSIGNMENTS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VTI_ASSIGNMENTS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B9/src/Wildcard/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/B9/src/Wildcard/Q1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
 }]]></component>
-  <component name="ProjectId" id="37TrmHMBL60brhGBdRUfcJUw7pl" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="38HaUjEK0EHYXsRMtACwTMS7ztr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "Application.Main.executor": "Run",
+    "Application.Q2.executor": "Run",
+    "Application.Q4.executor": "Run",
+    "Application.Q5.executor": "Run",
+    "Application.src.Generic.Q4.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ngockien/Desktop/VTI/VTI_JAVA/VTI_ASSIGNMENTS",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "java",
+    "last_opened_file_path": "E:/Dev/VTI/VTI_ASSIGNMENTS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.src.Generic.Q4">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="VTI_ASSIGNMENTS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Generic.Q2" />
+      <module name="VTI_ASSIGNMENTS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Generic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Wildcard.Q4" />
+      <module name="VTI_ASSIGNMENTS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Wildcard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Wildcard.Q5" />
+      <module name="VTI_ASSIGNMENTS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Wildcard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="src.Generic.Q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Generic.Q4" />
+      <module name="VTI_ASSIGNMENTS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Generic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.src.Generic.Q4" />
+        <item itemvalue="Application.Q2" />
+        <item itemvalue="Application.Q5" />
+        <item itemvalue="Application.Q4" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
       </set>
     </attachedChunks>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d38c3b09-dd7c-4904-9a8b-050ea2c32f5e" name="Changes" comment="" />
-      <created>1766938060093</created>
+      <changelist id="1d0f101d-c357-4a78-b580-81134e544ddf" name="Changes" comment="" />
+      <created>1768458967746</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1766938060093</updated>
-      <workItem from="1766938061275" duration="949000" />
+      <updated>1768458967746</updated>
+      <workItem from="1768458968852" duration="7109000" />
     </task>
     <servers />
   </component>

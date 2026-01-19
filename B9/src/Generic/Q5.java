@@ -4,7 +4,9 @@ import java.util.List;
 
 public class Q5 {
     public static void main(String[] args) {
-
+        Employee<Double> employee = new Employee<>(1,"sdfasdf",List.of(1.2,3.4,6.6));
+        Employee.print(employee);
+        Employee.printSal(employee);
     }
 }
 
@@ -19,11 +21,13 @@ class Employee<T>{
         this.salaries = salaries;
     }
 
-    public void print(Object obj){
+    public static void print(Object obj){
         System.out.println(obj);
     }
 
-
+    public static void printSal(Employee e){
+        System.out.println(e.getSalaries());
+    }
 
     public int getId() {
         return id;

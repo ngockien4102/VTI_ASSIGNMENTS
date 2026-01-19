@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d0f101d-c357-4a78-b580-81134e544ddf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/B9/src/Generic/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B9/src/Generic/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B9/src/Generic/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B9/src/Generic/Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B9/src/Wildcard/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B9/src/Wildcard/Q5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/VTI_ASSIGNMENTS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VTI_ASSIGNMENTS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B9/src/Wildcard/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/B9/src/Wildcard/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B9/src/Generic/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B9/src/Generic/Q7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B9/src/Generic/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/B9/src/Generic/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B9/src/Generic/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/B9/src/Generic/Q5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +30,13 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="38HaUjEK0EHYXsRMtACwTMS7ztr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -57,11 +50,13 @@
     "Application.Q5.executor": "Run",
     "Application.src.Generic.Q4.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "java",
-    "last_opened_file_path": "E:/Dev/VTI/VTI_ASSIGNMENTS",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ngockien/Desktop/VTI/VTI_JAVA/VTI_ASSIGNMENTS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -146,11 +141,11 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
       </set>
     </attachedChunks>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1d0f101d-c357-4a78-b580-81134e544ddf" name="Changes" comment="" />
@@ -159,6 +154,7 @@
       <option name="presentableId" value="Default" />
       <updated>1768458967746</updated>
       <workItem from="1768458968852" duration="7109000" />
+      <workItem from="1768667920109" duration="36000" />
     </task>
     <servers />
   </component>
